@@ -1,6 +1,6 @@
-# Drag-and-Drop-Image-example
+# Drag-and-Drop-Image/s-example
 
-## Загрузка изображения на сайт | Uploading an image to the site
+## Загрузка изображения на сайт | Uploading an image/s to the site
 
 ## Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-51/Drag-and-Drop-Image-example/index.html
 
